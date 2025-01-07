@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elias Salmela</h1>
-<h3 align="center">A curious minded programmerr from Finland</h3>
+<h3 align="center">A curious minded programmer from Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eleekku&label=Profile%20views&color=0e75b6&style=flat" alt="eleekku" /> </p>
 
