@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eleekku&label=Profile%20views&color=0e75b6&style=flat" alt="eleekku" /> </p>
 
-- Interested in algorithms, full stack, data structures and analysis, game development and graphics.
+- Interested in algorithms, full stack, data structures and analysis.
 
 - 📫 How to reach me **elkkuboy@gmail.com**
 
