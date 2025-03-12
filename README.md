@@ -5,6 +5,11 @@
 
 - Interested in algorithms, full stack, data structures and analysis.
 
+  ## ⚡ Fun Facts  
+- **Built a 3D wireframe model** using trigonometry before learning matrices 😅  
+- **Built a web server in C++** just for fun (and pain) 🔥  
+- **Love iterative development** but still getting used to agile workflows  
+
 - 📫 How to reach me **elkkuboy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
