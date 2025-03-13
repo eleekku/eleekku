@@ -23,5 +23,5 @@
 
 ## 🌟 Beyond Coding:  
 - **Finance & Markets Enthusiast** – I love analyzing financial data and understanding market trends 📈  
-- **Freelance Light Technician** – I make the clubs bumping ✨  
+- **Freelance Light Technician** – I make the clubs go bumping ✨  
 - **Music, gym, games, and movies lover** 🎶🏋️‍♂️🎮🎬  
